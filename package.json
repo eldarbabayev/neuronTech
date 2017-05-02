@@ -32,6 +32,9 @@
   "author": "Catalin Luntraru",
   "license": "MIT",
   "dependencies": {
+    "google-map-react": "^0.24.0",
+    "jquery": "^3.2.1",
+    "radium": "^0.18.2",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",

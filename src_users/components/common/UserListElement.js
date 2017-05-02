@@ -14,7 +14,8 @@ export default class UserListElement extends React.Component {
         <td>{user.job}</td>
         <td>
           <Link to={'user-edit/' + user.id}>
-            <Button bsSize="xsmall">
+            <Butt
+              on bsSize="xsmall">
               Edit <Glyphicon glyph="edit"/>
             </Button>
           </Link>
